@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ojg:home|Door43 (ojg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ojg|d43-ojg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ojg/archive/master.zip|d43-ojg.zip]]
+
+**Recent Changes**
+{{changes>ns = ojg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ojg|Ethnologue data]]
+
